@@ -2,4 +2,4 @@
 
 Link do portifolio
 
-https://luizmarcelolm.github.io/Portifolio/
+https://luizmarcelolm.github.io/Portfolio/
